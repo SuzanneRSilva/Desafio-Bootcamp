@@ -8,7 +8,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="xxxxxxxxx" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/SuzanneRSilva/Desafio-Bootcamp/blob/main/output/Ebook.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
